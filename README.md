@@ -28,6 +28,12 @@
 |------|------------|-------|
 | **Work Experience I** | Expérience professionnelle encadrée (42) | [![Work Experience I Score](https://badge.nimon.fr/api/v2/cmk8lwouv567601paiodru581/project/3370634)](https://github.com/Nimon77/badge42) |
 | **FR – Alternance – RNCP 6 (1 an)** | Formation en alternance – Concepteur Développeur | [![RNCP6 Alternance Score](https://badge.nimon.fr/api/v2/cmk8lwouv567601paiodru581/project/3934734)](https://github.com/Nimon77/badge42) |
+
+## Certifications
+- **Titre RNCP niveau 6 – Concepteur développeur de solutions informatiques**  
+  *Spécialisation : Développement de logiciels applicatifs*  
+  🔗 Preuve : https://www.credly.com/badges/c38b45ad-e4a6-4b29-88bb-551894c11566/public_url
+  
 ## 📫 Contact
 
 - LinkedIn : https://www.linkedin.com/in/remi-darnet42/
