@@ -31,7 +31,10 @@
 
 ## Certifications
 - **Titre RNCP niveau 6 – Concepteur développeur de solutions informatiques**
-<p align="left">
+
+  *Spécialisation : Développement de logiciels applicatifs*  
+  🔗 Preuve : https://www.credly.com/badges/c38b45ad-e4a6-4b29-88bb-551894c11566/public_url
+  <p align="left">
   <a href="https://www.credly.com/badges/TON_ID_BADGE" target="_blank">
     <img
       src="https://github.com/user-attachments/assets/28424053-ebb3-4291-ac47-bdee895d50c9"
@@ -40,9 +43,6 @@
     />
   </a>
 </p>
-
-  *Spécialisation : Développement de logiciels applicatifs*  
-  🔗 Preuve : https://www.credly.com/badges/c38b45ad-e4a6-4b29-88bb-551894c11566/public_url
   
 ## 📫 Contact
 
