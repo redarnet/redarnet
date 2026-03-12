@@ -34,10 +34,12 @@
   🔗 : https://www.credly.com/badges/c38b45ad-e4a6-4b29-88bb-551894c11566/public_url
 
   
-## 📫 Contact
+## 📫 À propos
 
 - LinkedIn : https://www.linkedin.com/in/remi-darnet42/
 - Email : remidarnet@gmail.com
+- Cursus 42 : https://42cv.dev/redarnet
+- Portfollio : https://www.darnetremi.fr
 
 ---
 
