@@ -2,13 +2,10 @@
 
 🎓 Étudiant à 42 – Level 21
 
-[![redarnet's 42 stats](https://badge.nimon.fr/api/v2/cmk8lwouv567601paiodru581/stats?cursusId=21&coalitionId=9)](https://github.com/Nimon77/badge42)
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gene6sis&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
+<a href="https://42cv.dev/redarnet"><img src="https://42cv.dev/api/badge/cmmm02sje0000dd1b5k9ig074/stats?cursusId=21&coalitionId=9" alt="redarnet's 42 stats" /></a>
 </p>
+
 
 ## Language de programmation
 <p align="center">
@@ -27,8 +24,8 @@
 
 | Projet | Description | Score |
 |------|------------|-------|
-| **Work Experience I** | Expérience professionnelle encadrée (42) | [![Work Experience I Score](https://badge.nimon.fr/api/v2/cmk8lwouv567601paiodru581/project/3370634)](https://github.com/Nimon77/badge42) |
-| **FR – Alternance – RNCP 6 (1 an)** | Formation en alternance – Concepteur Développeur | [![RNCP6 Alternance Score](https://badge.nimon.fr/api/v2/cmk8lwouv567601paiodru581/project/3934734)](https://github.com/Nimon77/badge42) |
+| **Work Experience I** | Expérience professionnelle encadrée (42) | [![redarnet's 42 Work Experience I Score](https://42cv.dev/api/badge/cmmm02sje0000dd1b5k9ig074/project/3370634)](https://projects.intra.42.fr/projects/work-experience-i/projects_users/3370634)
+| **FR – Alternance – RNCP 6 (1 an)** | Formation en alternance – Concepteur Développeur | <a href="https://projects.intra.42.fr/projects/fr-alternance-rncp6-1-an/projects_users/3934734"><img src="https://42cv.dev/api/badge/cmmm02sje0000dd1b5k9ig074/project/3934734" alt="redarnet's 42 FR - Alternance - RNCP6 - 1 an Score" /></a>
 
 ## Certifications
 - **Titre RNCP niveau 6 – Concepteur développeur de solutions informatiques**
