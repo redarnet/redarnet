@@ -32,7 +32,12 @@
 
   *Spécialisation : Développement de logiciels applicatifs*  
   🔗 : https://www.credly.com/badges/c38b45ad-e4a6-4b29-88bb-551894c11566/public_url
+  
+- **Titre RNCP niveau 7 – Expert en Architecture Informatique**
 
+  *Spécialisation : Architecture des Systèmes d’Information Réseaux*  
+  🔗 : https://www.credly.com/badges/c5228c65-350c-4172-9f87-ba43a7dce2c2
+  
   
 ## 📫 À propos
 
