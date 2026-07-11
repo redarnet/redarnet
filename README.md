@@ -46,6 +46,10 @@
 - Portfollio : https://www.darnetremi.fr
 
 ---
+## ⚡ En dehors du code
+- ♟️ Échecs — Elo 2100 chess.com
+- 🧗 Escalade — 7c bloc
+- 🏃 Course à pied — Marathon sub-3h, Ultra-trail
 
 
 <!--
