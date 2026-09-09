@@ -2,9 +2,9 @@
 
 🎓 Étudiant à 42 – Level 21
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://42cv.dev/redarnet"><img src="https://42cv.dev/api/badge/cmmm02sje0000dd1b5k9ig074/stats?cursusId=21&coalitionId=9" alt="redarnet's 42 stats" /></a>
-</p>
+</p> -->
 
 
 ## Language de programmation
